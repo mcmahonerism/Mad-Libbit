@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/schizolibs/static/css/main.d7c98f71.chunk.css",
+    "main.js": "/schizolibs/static/js/main.6c88f6ca.chunk.js",
+    "main.js.map": "/schizolibs/static/js/main.6c88f6ca.chunk.js.map",
+    "runtime-main.js": "/schizolibs/static/js/runtime-main.ff5024fd.js",
+    "runtime-main.js.map": "/schizolibs/static/js/runtime-main.ff5024fd.js.map",
+    "static/js/2.3b58778c.chunk.js": "/schizolibs/static/js/2.3b58778c.chunk.js",
+    "static/js/2.3b58778c.chunk.js.map": "/schizolibs/static/js/2.3b58778c.chunk.js.map",
+    "static/js/3.703edf5f.chunk.js": "/schizolibs/static/js/3.703edf5f.chunk.js",
+    "static/js/3.703edf5f.chunk.js.map": "/schizolibs/static/js/3.703edf5f.chunk.js.map",
+    "index.html": "/schizolibs/index.html",
+    "static/css/main.d7c98f71.chunk.css.map": "/schizolibs/static/css/main.d7c98f71.chunk.css.map",
+    "static/js/2.3b58778c.chunk.js.LICENSE.txt": "/schizolibs/static/js/2.3b58778c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/schizolibs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff5024fd.js",
+    "static/js/2.3b58778c.chunk.js",
+    "static/css/main.d7c98f71.chunk.css",
+    "static/js/main.6c88f6ca.chunk.js"
+  ]
+}
