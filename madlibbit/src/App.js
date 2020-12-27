@@ -11,7 +11,7 @@ class App extends React.Component {
     super(props); // not important
     
     this.state = {
-      input: 'She already had a stage and a booty pole.',
+      input: 'They had a good time at the party. They got balloons.',
       output: 'Type/paste something and hit submit'
     }
   }
